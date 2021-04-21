@@ -19,8 +19,10 @@ npm run build
 
 ## Usage
 All the current items get fetch from API below:
+
 'https://dummyapi.io/data/api/user'
-app-id='607f65448ce9f17db07f0f33'
+
+app-id='607f65448ce9f17db07f0f33' must be passed in headers
 
 Please use your app_id if current one does not work by generating new one from link below
 https://dummyapi.io/account
